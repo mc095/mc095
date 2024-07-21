@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
 </div><h1 align="center">I am Ganesh</h1>
-<h3 align="center">Either an avid developer or cool artist</h3>
+<h3 align="center">Writing Code & Creating Chaos</h3>
 
 - 🔭 I’m currently working on **Machine Learning and AWS**
 
