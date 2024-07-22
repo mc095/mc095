@@ -21,6 +21,6 @@
 <img  src="https://streak-stats.demolab.com?user=mc095&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=mc095&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 
