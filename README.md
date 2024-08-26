@@ -4,7 +4,7 @@
 <h3 align="center">Writing Code & Creating Chaos</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mc095&label=Profile%20views&color=0e75b6&style=flat" alt="mc095" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and AWS**
+- 🔭 I’m currently working on **Machine Learning and Algos**
 
 - 🌱 I’m currently deciphering **on what to learn or what not to** (Aka Stuck in Tutorial Hell)
 
