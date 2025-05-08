@@ -1,4 +1,4 @@
-# Hey, I'm Ganesh ✨
+# Hey, I'm Ganesh
 
 <table>
 <tr>
