@@ -4,8 +4,6 @@
 <tr>
 <td width="60%" valign="top">
 
-## About Me
-
 I'm a Student and Freelance developer passionate about solving real-world problems through SAAS and AI. 
 I love working with tech and contributing to open-source. I may not know the solution for a problem, 
 but I'd definitely know where to find it.
