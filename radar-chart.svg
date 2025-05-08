@@ -24,11 +24,11 @@
     <line x1="200" y1="10" x2="200" y2="20" transform="rotate(300,200,200)" />
     <line x1="200" y1="10" x2="200" y2="25" transform="rotate(330,200,200)" />
   </g>
-  <text x="200" y="40" text-anchor="middle" fill="#94a3b8" font-size="10" font-family="monospace">Web Dev</text>
-  <text x="345" y="125" text-anchor="middle" fill="#94a3b8" font-size="10" font-family="monospace">ML</text>
-  <text x="290" y="330" text-anchor="middle" fill="#94a3b8" font-size="10" font-family="monospace">Gen AI</text>
-  <text x="110" y="330" text-anchor="middle" fill="#94a3b8" font-size="10" font-family="monospace">DSA</text>
-  <text x="55" y="125" text-anchor="middle" fill="#94a3b8" font-size="10" font-family="monospace">Others</text>
+  <text x="200" y="40" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="monospace">Web Dev</text>
+  <text x="345" y="125" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="monospace">ML</text>
+  <text x="290" y="330" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="monospace">Gen AI</text>
+  <text x="110" y="330" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="monospace">DSA</text>
+  <text x="55" y="125" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="monospace">Others</text>
   <polygon
     points="200,30 300,160 260,270 140,280 100,150"
     fill="rgba(0,255,0,0.35)"
