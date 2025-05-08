@@ -10,7 +10,7 @@ but I'd definitely know where to find it.
 
 My skills range from designing to problem-solving through Software Engineering Techniques.
 
-Currently learning __*Go*__ and __RHEL__
+Currently learning __*[Go](https://go.dev/)*__ and __[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)__
 
 ### Connect with me
 
