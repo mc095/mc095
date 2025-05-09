@@ -8,7 +8,7 @@ A Student and Freelance developer passionate about solving real-world problems t
 I love working with tech and contributing to open-source. I may not know the solution for a problem, 
 but I'd definitely know where to find it.
 
-My skills range from designing to problem-solving through Software Engineering Techniques.
+My skills range from designing to problem-solving through Software Engineering Principles.
 
 Currently learning __*[Go](https://go.dev/)*__ and __[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)__
 
