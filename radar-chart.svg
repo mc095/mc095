@@ -39,7 +39,7 @@
       from="0,1000"
       to="1000,0"
       dur="2s"
-      repeatCount="indefinite"
+      repeatCount="1"
       fill="freeze" />
   </polygon>
   <circle cx="200" cy="200" r="6" fill="#00ff00" />
