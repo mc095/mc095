@@ -20,8 +20,13 @@ Currently learning __*[Go](https://go.dev/)*__ and __[RHEL](https://www.redhat.c
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ganesh097)
 
 </td>
+<td width="40%" valign="top">
 
+<img src="https://raw.githubusercontent.com/mc095/mc095/main/radar-chart.svg" 
+     alt="Skills Radar Chart" 
+     width="100%">
 
+</td>
 
 </tr>
 </table>
