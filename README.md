@@ -1,32 +1,39 @@
-# Hey, I'm Ganesh
+<div align="center">
+  <a href="https://ganeshvath.netlify.app">
+    <img 
+      width="100%" 
+      height="auto" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ganesh&fontSize=90&animation=fadeIn&fontAlignY=38&customColorList=0,2,5,30" 
+    />
+  </a>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+  <br/>
 
-A CS Undergrad and Freelance developer passionate about solving real-world problems through SAAS and AI. 
-Intrested in working with tech and contributing to open-source. I may not know the solution for a problem, 
-but I'd definitely know where to find it.
+  <div>
+    <img src="https://img.shields.io/badge/Aspiring_Software_Engineer-000000?style=for-the-badge&logoColor=white"/>
+  </div>
 
-My skills range from designing to problem-solving through Software Engineering Principles.
+  <br/>
 
-Currently learning __*[Go](https://go.dev/)*__ and __[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)__
+  <a href="https://ganeshvath.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-### Connect with me
+  <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh097/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ganeshvath.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mc095)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ganesh097)
+  <div>
+    <img src="https://img.shields.io/badge/Focus-SaaS-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Focus-Cloud-green?style=flat-square"/>
+  </div>
 
-</td>
-<td width="40%" valign="top">
+  <br/>
 
-<img src="https://raw.githubusercontent.com/mc095/mc095/main/radar-chart.svg" 
-     alt="Skills Radar Chart" 
-     width="100%">
-
-</td>
-
-</tr>
-</table>
+  <div>
+    <a href="https://www.linkedin.com/in/ganesh097/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://ganeshvath.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
+  </div>
+</div>
