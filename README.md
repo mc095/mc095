@@ -25,6 +25,4 @@
     <img src="https://img.shields.io/badge/Focus-SaaS-blue?style=flat-square"/>
     <img src="https://img.shields.io/badge/Focus-Cloud-green?style=flat-square"/>
   </div>
-
-  <br/>
 </div>
