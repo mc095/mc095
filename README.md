@@ -14,9 +14,9 @@
 
 <br>
 
-🍉 Currently grinding leetcode and sending letters to recruiters to pay my bills (CS '26)
+🍉 Present-day grinding leetcode and sending letters to recruiters to pay my bills (CS '26)
 
-☁️ My interests lie in DevOps, Cloud, Web and App Development and blogging.
+☁️ Interests lie in DevOps, Cloud, Web and App Development and blogging.
 
 🏆 Won the Best Paper Award at IEEE's 3rd International Conference on Algorithms in Advanced AI (ICAAAI) for my work on WiChain (blockchain backed chat messenger works using wifi)
 
