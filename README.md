@@ -30,22 +30,13 @@
 - [LUMA](https://github.com/mc095/luma) : LUMA is a privacy-first voice assistant powered by state-of-the-art AI. It runs locally on your machine, remembers what you tell it, and can search the web for real-time information, powered by [Agno](https://github.com/agno-agi/agno)
 - [LMS SVEC (Scaled version)](https://github.com/mc095/LMS-SVEC) : A Group Project as a backend dev. Built a scalable LMS for [Sri Vasavi Engineering College](https://srivasaviengg.ac.in/) with Django and Bootstrap, featuring HLS video streaming, user management, and bulk uploads to enhance digital learning access for students and staff.
 
-## 🛠️ Tech Stack
+## 🛠️ Stuff i'm probably good with
 
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,java,rust,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,java,rust,mysql,nodejs,django,aws,azure,docker,git,redhat" />
 </p>
 
-### Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,django" />
-</p>
 
-### Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,redhat" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umenzi/umenzi/main/images/github-snake-dark.svg" />
